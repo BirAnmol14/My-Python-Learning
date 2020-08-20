@@ -1,2 +1,2 @@
 # My-Python-Learning
-Contains my bioinformatics codes and some automation related codes
+Contains codes in Python which I did for various purposes like GUI covid tracker, BioInformatics or automation and web scraping.
